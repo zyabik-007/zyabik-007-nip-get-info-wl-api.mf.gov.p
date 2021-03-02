@@ -1,0 +1,22 @@
+{
+  "name": "zyabik/nip-api-gov",
+  "description": "Client wl-api.mf.gov.pl",
+  "type" : "library",
+  "authors": [
+    {
+      "name": "",
+      "email": ""
+    }
+  ],
+  "autoload":{
+    "psr-4": {
+      "WhiteListApi\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^7.1"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "9"
+  }
+}
