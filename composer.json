@@ -4,8 +4,8 @@
   "type" : "library",
   "authors": [
     {
-      "name": "",
-      "email": ""
+      "name": "zyabik",
+      "email": "zyabik@zyabik.zyabik"
     }
   ],
   "autoload":{
@@ -14,9 +14,6 @@
     }
   },
   "require": {
-    "php": "^7.1"
-  },
-  "require-dev": {
-    "phpunit/phpunit": "9"
+    "php": ">=7.4"
   }
 }
