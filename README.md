@@ -6,10 +6,7 @@ White List API / API Wykazu podatników VAT / Biała lista podatników VAT
 * https://wl-api.mf.gov.pl/
 * https://www.gov.pl/web/kas/api-wykazu-podatnikow-vat
 
-### Installation
-```bash
-composer require lozynskiadam/whitelistapi
-```
+
 
 ### Methods
 ```php
